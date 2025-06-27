@@ -32,7 +32,7 @@ This is the backend service for **DevKunwar Holidays**, a platform offering cust
 
 ## 📦 Installation
 
-`bash
+bash
 # Clone the repository
 git clone https://github.com/imsendyyy/devkunwar-backend.git
 
