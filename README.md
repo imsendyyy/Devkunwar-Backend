@@ -32,7 +32,7 @@ This is the backend service for **DevKunwar Holidays**, a platform offering cust
 
 ## 📦 Installation
 
-bash
+```bash
 # Clone the repository
 git clone https://github.com/imsendyyy/devkunwar-backend.git
 
@@ -56,8 +56,12 @@ cp .env.example .env
 -EMAIL_USER=your_email@example.com
 -EMAIL_PASS=your_email_password
 
+```
+
+---
 
 ## 🙋‍♂️ Author
-Name: Sandip Kukadiya
-Website: https://sandip-kukadiya.netlify.app
-GitHub: https://github.com/imsendyyy
+- Name : Sandip Kukadiya
+- Website : https://sandip-kukadiya.netlify.app/
+- Github : https://github.com/imsendyyy/
+
